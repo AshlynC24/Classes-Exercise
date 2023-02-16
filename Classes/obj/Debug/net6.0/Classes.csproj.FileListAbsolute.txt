@@ -1,0 +1,5 @@
+/Users/ashlyncarmosino/Desktop/Repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.csproj.AssemblyReference.cache
+/Users/ashlyncarmosino/Desktop/Repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashlyncarmosino/Desktop/Repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.AssemblyInfoInputs.cache
+/Users/ashlyncarmosino/Desktop/Repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.AssemblyInfo.cs
+/Users/ashlyncarmosino/Desktop/Repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.csproj.CoreCompileInputs.cache
